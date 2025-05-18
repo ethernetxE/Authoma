@@ -290,6 +290,10 @@
     "mode": true,
     "lista": [
       {
+        "name": "Sirenas",
+        "uri": "5FSgSsDC6nVpPZRfqN9CODkUUI/fXCSVKt8CwYKMzkOHgub+2PEsV7IThu2/D95WRYBeaB0OlFvrBqhDMSSkLChhYhsCXgdfvst6f90LHlmHqRFMSGY2EhcppIYXqWnvLse0y856kEgWq58HjAkVfQ=="
+      },
+      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg",
         "name": "007: Spectre (2015)",
         "uri": "d1VG+N0K/04cYyES7ezPDoCR9H7Vl62IldK+xvkQ3g+/BlfE4iw9WlaXAD3Ldz7YqbYbbCVFXqZYM1fBfQYGdQ=="
@@ -336,8 +340,7 @@
       },
       {
         "icon": "https://es.web.img2.acsta.net/pictures/15/05/11/10/11/517143.jpg",
-        "name": "Ant-Man (2015)",
-        "uri": ""
+        "name": "Ant-Man (2015)"
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/5/w1280/ochcUJTPQSfU5fDMA21y4xoDzeX.jpg",
@@ -962,8 +965,7 @@
       },
       {
         "name": "Batman vs Superman: El origen de la justicia (2016)",
-        "icon": "https://es.web.img2.acsta.net/pictures/16/03/04/15/47/480948.jpg",
-        "uri": ""
+        "icon": "https://es.web.img2.acsta.net/pictures/16/03/04/15/47/480948.jpg"
       },
       {
         "name": "Brimstone: La hija del predicador (2016)",
@@ -2749,8 +2751,7 @@
       },
       {
         "name": "Ant-Man y la Avispa (2018)",
-        "icon": "https://es.web.img3.acsta.net/pictures/18/07/03/13/52/3276833.jpg",
-        "uri": ""
+        "icon": "https://es.web.img3.acsta.net/pictures/18/07/03/13/52/3276833.jpg"
       },
       {
         "name": "Aquaman (2018)",
@@ -2789,8 +2790,7 @@
       },
       {
         "name": "Bohemian Rhapsody (2018)",
-        "icon": "https://es.web.img3.acsta.net/pictures/18/05/21/12/50/1518397.jpg",
-        "uri": ""
+        "icon": "https://es.web.img3.acsta.net/pictures/18/05/21/12/50/1518397.jpg"
       },
       {
         "name": "Book club (2018)",
@@ -2999,8 +2999,7 @@
       },
       {
         "name": "Hotel Transilvania 3 (2018)",
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/6/w1280/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg",
-        "uri": ""
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/6/w1280/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg"
       },
       {
         "name": "Hunter Killer: Caza en las profundidades (2018)",
@@ -3039,8 +3038,7 @@
       },
       {
         "name": "Jurassic World 2 (2018)",
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/6/w1280/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg",
-        "uri": ""
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/6/w1280/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
       },
       {
         "name": "Justicia implacable: Matar o morir (2018)",
